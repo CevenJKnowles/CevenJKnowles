@@ -1,4 +1,4 @@
-# Hi, I'm Ceven J. Knowles
+# Hi, I'm Ceven Jupiter Knowles
 
 **AI Workflow Designer | Prompt Engineering | Process Automation**
 
