@@ -1,25 +1,45 @@
-# Hi, I'm Ceven Jupiter Knowles
+# Ceven Jupiter Knowles
 
-**AI Workflow Designer | Prompt Engineering | Process Automation**
+**AI Workflow Designer · Prompt Engineering · Systems Architecture**
 
-I design AI-powered workflows and process automation systems that transform complex operations into reliable, repeatable structures. My work focuses on prompt engineering, LLM operations, and building systems that teams can trust and scale.
+I design governed AI systems that convert complex cognitive processes into reliable, auditable, and repeatable structures.  
+My work focuses on prompt engineering, LLM operations, documentation governance, and AI-enabled workflow design for real-world environments.
 
-## 🔭 Current Projects
+---
 
-- **[Prompt Pattern Library](https://github.com/CevenJKnowles/prompt-pattern-library)** - Open-source library of structured, metadata-rich prompt patterns
-- **[Io Persona Blueprint](https://github.com/CevenJKnowles/io-persona-blueprint)** - Framework for working with LLMs as disciplined cognitive systems
+## 🏛 Core Infrastructure
 
-## 🛠️ Core Competencies
+- **[CJK KnowledgeHub](https://github.com/CevenJKnowles/cjk-knowledgehub)**  
+  Structured AI portfolio system demonstrating governed prompt engineering, evaluation frameworks, and applied documentation architecture.
 
-- AI Workflow Design & Architecture
-- Prompt Engineering & LLM Operations
-- Multi-stage Prompt Chains
-- Process Automation & Optimization
-- Technical Documentation
-- Python Scripting
+- **[cjk-knowledgehub-governance](https://github.com/CevenJKnowles/cjk-knowledgehub-governance)**  
+  Internal control and governance layer for the KnowledgeHub. Defines ADRs, phase freezes, control gates, deterministic naming conventions, and structural invariants.
 
-## 📫 Connect
+---
 
-- LinkedIn: [linkedin.com/in/cevenknowles](https://linkedin.com/in/cevenknowles)
-- GitHub: [@CevenJKnowles](https://github.com/CevenJKnowles)
-- Location: Berlin, Germany
+## 🧠 Systems & Frameworks
+
+- **[Prompt Pattern Library](https://github.com/CevenJKnowles/prompt-pattern-library)**  
+  Open-source library of structured, metadata-rich prompt patterns with evaluation criteria and failure-mode documentation.
+
+- **[Io Persona Blueprint](https://github.com/CevenJKnowles/io-persona-blueprint)**  
+  Architecture framework for disciplined, mode-aware interaction with LLM systems, including governance protocols and reasoning controls.
+
+---
+
+## 🛠 Capabilities
+
+- AI Workflow Architecture  
+- Prompt Engineering & LLM Operations  
+- Multi-Stage Prompt Chains  
+- Governance & Documentation Systems  
+- Process Automation  
+- Python for AI Applications  
+
+---
+
+## 🌍 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/cevenknowles/  
+- **Behance:** https://www.behance.net/cevenknowles  
+- **Location:** Berlin, Germany  
