@@ -18,7 +18,7 @@ Records. The instrument is built.*
 
 ## Flagship
 
-**[IO-III Architecture](https://github.com/CevenJKnowles/io-architecture)**
+**[I0³ | Deterministic AI Runtime Architecture](https://github.com/CevenJKnowles/io-iii-runtime)**
 
 Deterministic LLM control-plane runtime built in Python. Governance-first
 architecture with 26 Architecture Decision Records, bounded execution enforcement
