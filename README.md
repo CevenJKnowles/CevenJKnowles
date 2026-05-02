@@ -24,8 +24,8 @@ Deterministic LLM control-plane runtime built in Python. Governance-first
 architecture with 26 Architecture Decision Records, bounded execution enforcement
 (hard limits on audit and revision passes), recursive content-safety logging,
 steward supervision mode, a multi-provider adapter layer, and an architectural
-invariant test suite that grows with each design decision. Nine complete phases.
-Latest stable: v0.9.0. MIT licence.
+invariant test suite that grows with each design decision. Ten complete phases. Phase 11 in planning.
+Latest stable: v1.0.0. MIT licence.
 
 ---
 
