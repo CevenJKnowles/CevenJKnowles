@@ -11,19 +11,21 @@ that same discipline to a new domain and a new scale.
 
 *The constraint is the feature.*
 
-*Currently: IO-III Phase 4 active — context architecture, observability, and
-memory design, while original invariants remain in force.*
+*IO-III Phase 10 complete. Nine phases hardened. Twenty-six Architecture Decision
+Records. The instrument is built.*
 
 ---
 
 ## Flagship
 
 **[IO-III Architecture](https://github.com/CevenJKnowles/io-architecture)**
+
 Deterministic LLM control-plane runtime built in Python. Governance-first
-architecture with 10 Architecture Decision Records, bounded execution enforcement
+architecture with 26 Architecture Decision Records, bounded execution enforcement
 (hard limits on audit and revision passes), recursive content-safety logging,
-and an architectural invariant test suite that grows with each design decision.
-Phase 3 complete at v0.3.3. Phase 4 now active.
+steward supervision mode, a multi-provider adapter layer, and an architectural
+invariant test suite that grows with each design decision. Nine complete phases.
+Latest stable: v0.9.0. MIT licence.
 
 ---
 
@@ -35,18 +37,25 @@ phase freeze protocols, control gates, deterministic naming conventions, and
 structural invariants.
 
 **[CJK KnowledgeHub](https://github.com/CevenJKnowles/cjk-knowledgehub)**
-Public portfolio and knowledge site built with MkDocs. Documents the structural
-method, project history, and operating infrastructure across domains. The
-public-facing layer of the practice.
+Public portfolio and knowledge site built with MkDocs. Live at
+[cevenknowles.com](https://cevenknowles.com). Documents the structural method,
+project history, and operating infrastructure across domains.
 
 ---
 
-## Frameworks
+## Projects
+
+**[Job Application Tracker](https://github.com/CevenJKnowles/job-application-tracker)**
+Local desktop application built in Python with PyQt6, SQLite, Matplotlib, and a
+LaTeX export pipeline. Normalised relational database with user-editable reference
+tables and embedded analytics. Designed as a compact internal product system,
+not a spreadsheet. Phase 1 in progress.
 
 **[Prompt Pattern Library](https://github.com/CevenJKnowles/prompt-pattern-library)**
-Open-source library of structured, metadata-rich prompt patterns with evaluation
-criteria and failure-mode documentation. Development is paused while IO-III takes
-priority. The intent is to build it properly, not quickly.
+Open-source taxonomy and atomic pattern library for structured prompt engineering.
+Taxonomy v1.0 locked: 19 domains covering instruction and control, workflow
+automation, evaluation, safety and ethics, failure modes, and meta-system control.
+Atomic pattern library in development.
 
 ---
 
@@ -62,8 +71,10 @@ priority. The intent is to build it properly, not quickly.
 
 ## Connect
 
-* **LinkedIn:** <https://www.linkedin.com/in/cevenknowles/>
-* **Behance:** <https://www.behance.net/cevenknowles>
+* **Site:** https://cevenknowles.com
+* **LinkedIn:** https://www.linkedin.com/in/cevenknowles/
+* **Substack:** https://substack.com/@cevenjupiterknowles
+* **Behance:** https://www.behance.net/cevenknowles
 * **Location:** Berlin, Germany
 
 *Open to technical conversations, collaboration, and the right opportunities.*
