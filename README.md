@@ -1,18 +1,6 @@
 # Ceven Jupiter Knowles
-**AI Systems Design · Governed LLM Infrastructure · Workflow Architecture**
-
-I build constraint-first LLM infrastructure: bounded execution, hard governance
-limits, architectural decisions that are documented before they are implemented.
-
-The structural logic behind this work predates AI. Broadcasting, education,
-print, systems design — across each of these, the question has been the same:
-what allows a complex thing to hold together as conditions change? IO-III applies
-that same discipline to a new domain and a new scale.
-
-*The constraint is the feature.*
-
-*IO-III Phase 10 complete. Nine phases hardened. Twenty-six Architecture Decision
-Records. The instrument is built.*
+## Interdisciplinary Designer
+### media | new media | visual communications | ai
 
 ---
 
