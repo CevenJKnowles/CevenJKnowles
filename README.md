@@ -1,61 +1,19 @@
 # Ceven Jupiter Knowles
-## Interdisciplinary Designer
-### media | new media | visual communications | ai
 
----
+## Data Scientist & Interdisciplinary Designer
 
-## Flagship
-
-**[I0³ | Deterministic AI Runtime Architecture](https://github.com/CevenJKnowles/io-iii-runtime)**
-
-Deterministic LLM control-plane runtime built in Python. Governance-first
-architecture with 26 Architecture Decision Records, bounded execution enforcement
-(hard limits on audit and revision passes), recursive content-safety logging,
-steward supervision mode, a multi-provider adapter layer, and an architectural
-invariant test suite that grows with each design decision. Ten complete phases. Phase 11 in planning.
-Latest stable: v1.0.0. MIT licence.
-
----
-
-## Infrastructure & Governance
-
-**[cjk-knowledgehub-governance](https://github.com/CevenJKnowles/cjk-knowledgehub-governance)**
-Internal control and governance layer for the KnowledgeHub system. Defines ADRs,
-phase freeze protocols, control gates, deterministic naming conventions, and
-structural invariants.
-
-**[CJK KnowledgeHub](https://github.com/CevenJKnowles/cjk-knowledgehub)**
-Public portfolio and knowledge site built with MkDocs. Live at
-[cevenknowles.com](https://cevenknowles.com). Documents the structural method,
-project history, and operating infrastructure across domains.
-
----
+Data scientist with a generalist's range: 26 years as an interdisciplinary designer leading creative and technical production for international clients, now applied to machine learning and AI systems. Graduate of the Data Science & AI bootcamp at Le Wagon (September 2026), with Wolfram certificates in machine learning and statistics. Fluent in English and German, based in Berlin.
 
 ## Projects
 
-**[Job Application Tracker](https://github.com/CevenJKnowles/job-application-tracker)**
-Local desktop application built in Python with PyQt6, SQLite, Matplotlib, and a
-LaTeX export pipeline. Normalised relational database with user-editable reference
-tables and embedded analytics. Designed as a compact internal product system,
-not a spreadsheet. Phase 1 in progress.
+**[KITTY3000-ML](https://github.com/CevenJKnowles/Kitty3000-ML)**
+A 2026 update of the 2018 CatSound paper: a CNN built from scratch, set against two pretrained audio models, PANNs and AST, to name the mood of a cat from a recording. The CNN reached about 82% test accuracy against 83% for PANNs. One of two student projects selected as the final project of the Le Wagon bootcamp, built by a team of four data scientists with the designer as team lead.
 
-**[Prompt Pattern Library](https://github.com/CevenJKnowles/prompt-pattern-library)**
-Open-source taxonomy and atomic pattern library for structured prompt engineering.
-Taxonomy v1.0 locked: 19 domains covering instruction and control, workflow
-automation, evaluation, safety and ethics, failure modes, and meta-system control.
-Atomic pattern library in development.
+**[I0³ | Deterministic AI Runtime](https://github.com/CevenJKnowles/io-iii-runtime)**
+A local control plane for language models, built in Python, with a fixed routing table, bounded execution limits and 34 Architecture Decision Records. 1,182 tests run in CI. Latest stable: v1.0.0.
 
----
-
-## Capabilities
-
-* AI Systems Design & Governed LLM Infrastructure
-* Workflow Architecture & Deterministic System Design
-* Architecture Decision Records & Documentation Governance
-* Bounded Execution Modelling & Runtime Safety
-* Responsible AI & Content Safety Architecture
-
----
+**[CJK KnowledgeHub](https://github.com/CevenJKnowles/cjk-knowledgehub)**
+Public portfolio and knowledge site built with MkDocs, live at [cevenknowles.com](https://cevenknowles.com), governed by its own [documentation and control layer](https://github.com/CevenJKnowles/cjk-knowledgehub-governance).
 
 ## Connect
 
