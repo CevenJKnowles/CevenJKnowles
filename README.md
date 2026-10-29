@@ -1,6 +1,6 @@
 # Ceven Jupiter Knowles
 
-## Data Sciennce & Interdisciplinary Design
+## Data Science & Interdisciplinary Design
 
 Data scientist with a generalist's range: 26 years as an interdisciplinary designer leading creative and technical production for international clients, now applied to machine learning and AI systems. Graduate of the Data Science & AI bootcamp at Le Wagon (September 2026), with Wolfram certificates in machine learning and statistics. Fluent in English and German, based in Berlin.
 
