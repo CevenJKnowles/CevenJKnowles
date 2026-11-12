@@ -16,11 +16,3 @@ A classifier for ten categories of cat vocalisation, and a 2026 update of the 20
 
 **[I0³ | Deterministic AI Runtime](https://github.com/CevenJKnowles/io-iii-runtime)**
 A local control plane for language models, built in Python, with a fixed routing table, bounded execution limits and 34 Architecture Decision Records. 1,182 tests run in CI. Latest stable: v1.0.0.
-
-## Connect
-
-* **Site:** https://cevenknowles.com (portfolio and knowledge site, [source](https://github.com/CevenJKnowles/cjk-knowledgehub))
-* **LinkedIn:** https://www.linkedin.com/in/cevenknowles/
-* **Substack:** https://substack.com/@cevenjupiterknowles
-* **Behance:** https://www.behance.net/cevenknowles
-* **Location:** Berlin, Germany
